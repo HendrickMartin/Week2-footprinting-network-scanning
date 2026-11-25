@@ -117,4 +117,3 @@ Screenshots are in the [`screenshots/`](screenshots) folder:
 ---
 
 *Part of the Networkwalks Cybersecurity Internship, Week 2. For education purposes only.*
-# Week2-footprinting-network-scanning
